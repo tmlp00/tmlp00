@@ -1,4 +1,4 @@
-## Hi there 👋
+## Compte créé par Thao My pour le cours SCI6201 de l'EBSI
 
 <!--
 **tmlp00/tmlp00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
